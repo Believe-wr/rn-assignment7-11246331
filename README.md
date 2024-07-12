@@ -41,7 +41,5 @@ Persistent Storage
 ![WhatsApp Image 2024-07-12 at 08 58 10_9d2411c2](https://github.com/user-attachments/assets/41c02de7-977b-4a63-afa2-73c4391b9a78)
 
 ## CartScreen
-![WhatsApp Image 2024-07-12 at 08 58 10_9d2411c2](https://github.com/user-attachments/assets/1ad5eecf-dc91-48db-b008-e952e2f5206e)
+ ![checkout](https://github.com/user-attachments/assets/bd416809-d9f0-4688-92ef-c9c275f90283)
 
-
-   
