@@ -181,13 +181,12 @@ const styles = StyleSheet.create({
     padding: 20,
     justifyContent: 'flex-start',
   },
-  
   menuHeader: {
     fontSize: 24,
     textAlign: 'left',
     marginTop: 15,
     borderBottomWidth: 1,
-    borderColor: "#FF5733",
+    borderColor: "#FF5F1F",
   },
   menuItemsContainer: {
     marginTop: 10,
@@ -215,20 +214,25 @@ const styles = StyleSheet.create({
   productContainer: {
     flex: 1,
     margin: 10,
+    borderWidth: 1,
+    borderColor: '#eee',
+    borderRadius: 10,
+    overflow: 'hidden',
   },
   image: {
     width: '100%',
     height: 200,
     justifyContent: 'flex-end',
     alignItems: 'flex-end',
+    
   },
   plusIconContainer: {
     padding: 6,
     margin: 10,
   },
   plusIcon: {
-    tintColor: '#FF0027',
-  },
+    tintColor: '#0437F2'
+    },
   productName: {
     fontSize: 16,
     fontWeight: 'bold',

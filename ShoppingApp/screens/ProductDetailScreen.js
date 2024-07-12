@@ -322,7 +322,7 @@ const styles = StyleSheet.create({
     textAlign: 'left',
     marginTop: 15,
     borderBottomWidth: 1,
-    borderColor: "#FF5733", 
+    borderColor: "#FF5F1F", 
   },
   menuItemsContainer: {
     marginTop: 10,

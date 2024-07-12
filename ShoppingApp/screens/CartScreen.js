@@ -119,7 +119,11 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     marginBottom: 20,
-    padding: 10,
+    padding: 5,
+    borderWidth: 1,
+    borderColor: '#eee',
+    borderRadius: 10,
+    overflow: 'hidden',
   },
   image: {
     width: 100,
